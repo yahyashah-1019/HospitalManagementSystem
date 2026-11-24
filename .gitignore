@@ -1,0 +1,4 @@
+*.exe
+patients.txt
+appointments.txt
+appointment_history.txt
